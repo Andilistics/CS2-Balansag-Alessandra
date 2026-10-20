@@ -10,9 +10,9 @@ This program calculates the electricity consumption and total electricity bill.
 - Does not include input validation.
 
 ## Version 2 - Revised code with input validation
-- Input: 
+- Input: Accepts a customer's name, previous meter reading, and current meter reading.
 - Process: 
-- Output: 
+- Output: Customer's name, electricity consumption and total electricity bill.
 - Includes input validation.
 
 
